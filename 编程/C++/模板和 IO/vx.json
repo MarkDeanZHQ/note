@@ -1,0 +1,20 @@
+{
+    "created_time": "2022-05-02T11:07:41Z",
+    "files": [
+    ],
+    "folders": [
+        {
+            "name": "2-1 模板"
+        },
+        {
+            "name": "2-2 异常"
+        },
+        {
+            "name": "2-3 IO"
+        }
+    ],
+    "id": "248",
+    "modified_time": "2022-05-02T11:07:41Z",
+    "signature": "177745148797",
+    "version": 3
+}
